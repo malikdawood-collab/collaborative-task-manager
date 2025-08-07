@@ -54,3 +54,8 @@ cd collaborative-task-manager
 │       └── App.js         # main logic, fetch calls, UI
 ├── README.md              # <-- You’re here
 └── .gitignore
+# Collaborative Task Manager
+
+Live Demo: 🔗 https://malikdawood-collab.github.io/collaborative-task-manager-frontend/
+
+A full-stack task & project management app built with Flask + React…
