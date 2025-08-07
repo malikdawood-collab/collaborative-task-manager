@@ -1,0 +1,39 @@
+# -----------------------------
+# General
+# -----------------------------
+*.log
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+.env
+.DS_Store
+
+# -----------------------------
+# Python / Flask
+# -----------------------------
+venv/
+instance/
+*.sqlite3
+migrations/__pycache__/
+migrations/*.pyc
+
+# -----------------------------
+# Node.js / React Frontend
+# -----------------------------
+collaborative-task-manager-frontend/node_modules/
+collaborative-task-manager-frontend/.pnp/
+collaborative-task-manager-frontend/pnp.js
+collaborative-task-manager-frontend/coverage/
+collaborative-task-manager-frontend/build/
+collaborative-task-manager-frontend/.env*
+collaborative-task-manager-frontend/npm-debug.log*
+collaborative-task-manager-frontend/yarn-debug.log*
+collaborative-task-manager-frontend/yarn-error.log*
+
+# -----------------------------
+# VSCode / IDE files
+# -----------------------------
+.vscode/
+.idea/
+node_modules
